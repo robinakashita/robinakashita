@@ -1,4 +1,4 @@
-## Hello! My name is Robin Nakashita. 
+## Hello! My name is Robin Nakashita. 👋
 
 I am an applied math and physics graduate interested in Earth system science, climate dynamics, and data-driven policy. I enjoy building tools that connect scientific modeling with real-world environmental questions.
 
