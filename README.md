@@ -3,7 +3,7 @@
 I am an applied math and physics graduate interested in Earth system science, climate dynamics, and data-driven policy. I enjoy building tools that connect scientific modeling with real-world environmental questions.
 
 - 🎓 B.S. Applied Mathematics & B.A. Physics — California State University, Long Beach (CSULB)
-- 🌎 Interests: extreme weather, paleoclimate, monsoon dynamics, hydrology, nonlinear dynamics, glaciology
+- 🌎 Interests: extreme weather, paleoclimate, monsoon dynamics, hydrology, nonlinear dynamics, glaciology, energy resilience
 - 🛠️ Tools: Python (NumPy, pandas, xarray, matplotlib, cartopy), Jupyter, QGIS, Git, LaTeX
 
 ---
