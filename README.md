@@ -16,10 +16,10 @@ I am an applied math and physics graduate interested in Earth system science, cl
 - **[Advancing Transit Equity for Boston’s Underserved Youth](https://github.com/robinakashita/advancing-transit-equity-2025)**  
   MIT Policy Hackathon project combining QGIS geospatial analysis and Python summary statistics to examine poverty, commute burden, and transit inequity in Boston, DC, NYC, and Seattle.
 
-- **[Infilling Missing Streamflow Data in Time Series](https://github.com/robinakashita/predicting-streamflow-machine-learning-2023)**  
+- **[Infilling Missing Streamflow Data in Time-Series](https://github.com/robinakashita/predicting-streamflow-machine-learning-2023)**  
   Hydrologic time-series analysis using simple linear regression to infill gaps in streamflow records from Mo’orea, French Polynesia.
 
-- **[Blue Origin–Style Suborbital Trajectory Simulation](https://github.com/robinakashita/blue-origin-trajectory-2025)**  
+- **[Blue Origin Suborbital Trajectory Simulation](https://github.com/robinakashita/blue-origin-trajectory-2025)**  
   Numerical simulation of the New Shepard capsule trajectory using Runge–Kutta integration in Python.
 
 ---
