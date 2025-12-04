@@ -4,7 +4,7 @@ I am an applied math and physics graduate interested in Earth system science, cl
 
 - 🎓 B.S. Applied Mathematics & B.A. Physics — California State University, Long Beach (CSULB)
 - 🌎 Interests: extreme weather, paleoclimate, monsoon dynamics, physics–AI models, nonlinear dynamics, glaciology
-- 🛠️ Tools: Python (NumPy, pandas, xarray, matplotlib, cartopy), Python, Jupyter, R, QGIS, Git, LaTeX
+- 🛠️ Tools: Python (NumPy, pandas, xarray, matplotlib, cartopy), Jupyter, R, QGIS, Git, LaTeX
 
 ---
 
