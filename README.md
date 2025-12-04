@@ -1,6 +1,6 @@
 ## Hello! My name is Robin Nakashita. 👋
 
-I am an applied math and physics graduate interested in Earth system science, climate dynamics, and data-driven policy. I enjoy building tools that connect scientific modeling with real-world environmental questions.
+I am an applied mathematics and physics graduate driven to bridge Earth system science, climate dynamics, and data-informed policy that improves outcomes for people and communities. I enjoy building tools that connect scientific modeling with real-world environmental questions.
 
 - 🎓 B.S. Applied Mathematics & B.A. Physics — California State University, Long Beach (CSULB)
 - 🌎 Interests: extreme weather, paleoclimate, monsoon dynamics, physics–AI models, nonlinear dynamics, glaciology
