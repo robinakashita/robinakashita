@@ -24,7 +24,7 @@ I am an applied math and physics graduate interested in Earth system science, cl
 
 ---
 
-## 📫 Get in touch
+## 📫 Contact Information
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/robin-nakashita/)
 - 📧 Email Address: nakashitarobin@gmail.com
