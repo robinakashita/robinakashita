@@ -26,8 +26,8 @@ I am an applied math and physics graduate interested in Earth system science, cl
 
 ## 📫 Contact Information
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/robin-nakashita/)
 - 📧 Email Address: nakashitarobin@gmail.com
 - 📞 Phone Number: +1 (562) 374-3449
+- 🔗 [LinkedIn](https://www.linkedin.com/in/robin-nakashita/)
 
 I am always happy to connect about Earth system science, climate data, or policy analysis. Please feel free to reach out anytime. Thank you!
