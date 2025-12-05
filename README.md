@@ -10,7 +10,7 @@ I am an applied mathematics and physics graduate driven to bridge Earth system s
 
 ## 🔬 Selected Projects
 
-- **[Understanding Monsoon Dynamics in East Africa and the Southern Indian Ocean](https://github.com/robinakashita/paleoclimate-monsoon-dynamics-2024)**  
+- **[Understanding Monsoon Dynamics in East Africa (Madagascar) and the Southern Indian Ocean](https://github.com/robinakashita/paleoclimate-monsoon-dynamics-2024)**  
   MIT Summer Research Program (MSRP 2024) project comparing TraCE/iTraCE climate simulations with speleothem records from Madagascar to study long-term monsoon variability.
 
 - **[Advancing Transit Equity for Boston’s Underserved Youth](https://github.com/robinakashita/advancing-transit-equity-2025)**  
