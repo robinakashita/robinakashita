@@ -1,5 +1,3 @@
-## Hello! My name is Robin Nakashita. During my undergraduate studies, I built computational tools to analyze complex systems across physics, data science, and Earth Science. Please take a look at my previous work to see how I apply these skills to real-world problems.
-
 - 🎓 B.S. Applied Mathematics & B.A. Physics — California State University, Long Beach (CSULB)
 - 🛠️ Tools: Python (NumPy, pandas, xarray, matplotlib, cartopy), Jupyter, R, QGIS, Git, LaTeX
 
