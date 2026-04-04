@@ -1,4 +1,4 @@
-- 🎓 B.S. Applied Mathematics & B.A. Physics — California State University, Long Beach (CSULB)
+- 🎓 B.S. Applied Mathematics, B.A. Physics — California State University, Long Beach (CSULB)
 - 🛠️ Tools: Python (NumPy, pandas, xarray, matplotlib, cartopy), Jupyter, R, QGIS, Git, LaTeX
 
 ---
